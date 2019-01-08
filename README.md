@@ -2,7 +2,7 @@
 
 [Homebrew](https://brew.sh) is a package manager for macOS. You can use it to install [the Arm GCC toolchain](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm):
 ```sh
-brew tap ArmMbed/homebrew-formulae
+brew tap SupersADF/homebrew-formulae
 brew install arm-none-eabi-gcc
 ```
 
